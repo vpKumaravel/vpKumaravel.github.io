@@ -8,7 +8,7 @@ permalink: /about/
 
 I am currently interested in exploring how perceptual learning impacts Speech Perception in Noise (SPIN). To investigate this, I will utilise both EEG and behavioural measurements. This two-year project is funded by the "Cluster of Excellence Hearing4All (H4A)" and HWK.
 
-For my PhD, I developed a signal processing pipeline tailored for EEG-based developmental cognitive studies. The goal was to extract stimulus-specific neural information from noisy EEG datasets collected from human newborns (0-4 days old) and young infants (12 months old). As part of the ERC project NeurosoNew, I also worked on signal processing algorithms suitable for wearable EEG systems. During my PhD internship at the ESL laboratory, EPFL Switzerland, I worked on Machine Learning models for epileptic seizure detection using a minimal number of EEG channels.
+For my PhD, I developed a signal processing pipeline tailored for EEG-based developmental cognitive studies. The goal was to extract stimulus-specific neural information from noisy EEG datasets collected from human newborns (0-4 days old) and young infants (12 months old). As part of the ERC project [NeurosoNew](https://cordis.europa.eu/project/id/842243?isPreviewer=1), I worked on signal processing algorithms suitable for wearable EEG systems. During my PhD internship at the ESL laboratory, EPFL Switzerland, I worked on Machine Learning models for epileptic seizure detection using a minimal number of EEG channels.
 
 **Education - Career**
 
