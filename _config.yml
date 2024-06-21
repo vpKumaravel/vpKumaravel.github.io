@@ -29,7 +29,7 @@ github_username:  vpKumaravel
 
 # Build settings
 theme: minima
-plugins:
+# plugins:
   # - jekyll-feed
 
 # Exclude from processing.
