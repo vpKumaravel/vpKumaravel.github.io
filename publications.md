@@ -5,7 +5,6 @@ permalink: /publications/
 ---
 
 Here, I feature a selection of my publications. Below, you will find abstracts or descriptions of my recent work, along with links to the full publications.
-# Publications
 
 ## Publication 1
 **Title:** NEAR: An artifact removal pipeline for human newborn EEG data
