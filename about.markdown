@@ -12,22 +12,22 @@ For my PhD, I developed a signal processing pipeline tailored for EEG-based deve
 
 **Education - Career**
 
-*Since 2024*
+Since 2024<br>
 Scientific Assistant at the Carl von Ossietzky University Oldenburg, Germany.
 
-*2023 (March) - 2023 (August)*
+2023 (March) - 2023 (August)<br>
 Researcher (R4) at Fondazione Bruno Kessler, Trento, Italy.
 
-*2018-2023*
+2018-2023<br>
 PhD in Cognitive and Brain Sciences, University of Trento, Italy.
 
-*2015-2018*
+2015-2018<br>
 M.Sc. Telecommunications Engineering, University of Bologna, Italy.
 
-*2013-2015*
+2013-2015<br>
 Software Engineer, Larsen & Toubro Infotech, Chennai, India.
 
-*2008-2012*
+2008-2012<br>
 B.Eng. Electronics and Communications Engineering, Anna University, Chennai, India.
 
 **Publications**
