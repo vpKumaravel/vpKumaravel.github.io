@@ -1,29 +1,10 @@
 ---
 layout: post
-title:  "Welcome to my profile!"
+title:  "Welcome to my academic profile!"
 date:   2024-06-20 21:00:22 +0200
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+I am currently a Post-doctoral researcher at the University of Oldenburg. This is a 23-month position funded by the Hearing4All cluster of Excellence and Hansewissenshaftskolleg (HWK). to determine if neurofeedback on auditory selective attention enhances the perception of speech in noisy environments in everyday life.  I work with [Prof. Dr. Stefan Debener](https://uol.de/neuropsychologie/team/prof-dr-stefan-debener) and [Dr. Martin Bleichner](https://uol.de/psychologie/neurophysiologie-des-alltags-emmy-noether-gruppe/team/dr-martin-bleichner).
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Previously, I worked under the supervision of Dr. Elisabetta Farella (Head of E3DA Unit, Fondazione Bruno Kessler, Italy) and Dr. Marco Buiatti (Center of Mind and Brain Sciences, University of Trento, Italy) for my PhD thesis titled "Signal Processing Methods for Reliable Extraction of Neural Responses in Developmental EEG" ([Thesis link](https://iris.unitn.it/handle/11572/371709)). I developed a signal processing pipeline tailored for EEG-based developmental cognitive studies. The goal was to extract stimulus-specific neural information from noisy EEG datasets collected from human newborns (0-4 days old) and young infants (12 months old). As part of the ERC project [NeurosoNew](https://cordis.europa.eu/project/id/842243?isPreviewer=1), I also worked on signal processing algorithms suitable for wearable EEG systems. During my PhD internship at the ESL laboratory, EPFL Switzerland, I worked on Machine Learning models for epileptic seizure detection using a minimal number of EEG channels.
