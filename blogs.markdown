@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blogs
-permalink: /about/
+permalink: /blogs/
 ---
 
 To be updated!
