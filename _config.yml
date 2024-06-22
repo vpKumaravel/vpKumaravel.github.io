@@ -28,6 +28,7 @@ github_username:  vpKumaravel
 
 # Build settings
 theme: minima
+skin: dark
 # plugins:
   # - jekyll-feed
  
