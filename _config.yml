@@ -21,7 +21,6 @@
 title: Dr. Velu Prabhakar Kumaravel
 email: vpr.kumaravel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal profile. My goal is to write short technical blogs related to EEG, its application in cognitive neueroscience and different ways to analyse the data to obtain reliable neural information.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Velupk1
