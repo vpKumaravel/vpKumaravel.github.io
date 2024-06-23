@@ -9,18 +9,7 @@ layout: default
 
   {{ content }}
   
-  <p>INFORMATION</p>
-
-  {%- assign ordered_pages = site.pages | sort: 'order' -%}
-  <ul class="page-list">
-    {%- for page in ordered_pages -%}
-      <li>
-        <a class="page-link" href="{{ page.url | relative_url }}">
-          {{ page.title | escape }}
-        </a>
-      </li>
-    {%- endfor -%}
-  </ul>
+ <p>  INFORMATION </p>
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
@@ -40,6 +29,12 @@ layout: default
       </li>
       {%- endfor -%}
     </ul>
+
+    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>-->
   {%- endif -%}
 
 </div>
+
+
+I would like to order the pages.
+The list of pages i have are 1) About, 2) Awards, 3) Projects, 4) Publications
