@@ -10,6 +10,11 @@ layout: default
   {{ content }}
   
  <p>  INFORMATION </p>
+ 
+ {% assign sorted_pages = site.pages | sort:"order" %}
+{% for node in sorted_pages %}
+  <li><a href="{{node.url}}">{{node.title}}</a></li>
+{% endfor %}
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
