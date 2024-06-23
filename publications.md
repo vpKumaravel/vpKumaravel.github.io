@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Publications"
-order:4
+order: 4
 permalink: /publications/
 ---
 
