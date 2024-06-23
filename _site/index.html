@@ -29,16 +29,7 @@
           </span>
         </label>
 
-<div class="trigger">
-          {%- assign ordered_pages = site.pages | sort: 'order' -%}
-          {%- for page in ordered_pages -%}
-            {%- if page.title and page.url != "/" -%}
-              <a class="page-link" href="{{ page.url | relative_url }}">
-                {{ page.title | escape }}
-              </a>
-            {%- endif -%}
-          {%- endfor -%}
-        </div>
+        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/awards/">Awards</a><a class="page-link" href="/blogs/">Blogs</a><a class="page-link" href="/projects/">Projects</a><a class="page-link" href="/publications/">Publications</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -50,16 +41,23 @@
  
  
 
-<ul>
-          {%- assign ordered_pages = site.pages | sort: 'order' -%}
-          {%- for page in ordered_pages -%}
-            {%- if page.title and page.url != "/" -%}
-              <li>
-                <a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
-              </li>
-            {%- endif -%}
-          {%- endfor -%}
-        </ul>
+  <li><a href="/feed.xml"></a></li>
+
+  <li><a href="/"></a></li>
+
+  <li><a href="/assets/main.css"></a></li>
+
+  <li><a href="/404.html"></a></li>
+
+  <li><a href="/about/">About</a></li>
+
+  <li><a href="/projects/">Projects</a></li>
+
+  <li><a href="/blogs/">Blogs</a></li>
+
+  <li><a href="/publications/">Publications</a></li>
+
+  <li><a href="/awards/">Awards</a></li>
 </div>
 
       </div>
